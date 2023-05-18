@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/out/production/client/com/example/client/ClientApplication.class
